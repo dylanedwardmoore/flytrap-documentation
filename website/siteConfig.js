@@ -23,15 +23,15 @@ const users = [
 const siteConfig = {
   title: 'Flytrap.ai', // Title for your website.
   tagline: 'Flytrap.ai: The Rhizomatic Storytelling Engine',
-  url: 'https://dylanedwardmoore.github.io', // Your website URL
-  baseUrl: '/', // Base URL for your project */
+  url: 'https://flyrap.ai', // Your website URL
+  baseUrl: '/flytrap-documentation/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
   projectName: 'flytrap-documentation',
-  organizationName: 'Flytrap',
+  organizationName: 'dylanedwardmoore',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
   //   organizationName: 'JoelMarcey'
