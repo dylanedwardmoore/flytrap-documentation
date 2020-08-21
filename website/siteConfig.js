@@ -24,7 +24,7 @@ const siteConfig = {
   title: 'Flytrap.ai', // Title for your website.
   tagline: 'Flytrap.ai: The Rhizomatic Storytelling Engine',
   url: 'https://www.flytrap.ai', // Your website URL
-  baseUrl: '/flytrap-documentation/', // Base URL for your project */
+  baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
